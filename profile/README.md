@@ -3,7 +3,7 @@
 | Attack Kit | Functions | Supported OS | Language | Actively supported
 |--|--|--|--|--|
 | [PyPengu](https://github.com/pengu-apm/PyPengu/) | Any Data Collector | Any Linux | Go | [+] Yes
-| [BRACE](https://github.com/pengu-apm/BRACE/)| Data Collector for Containers Only | Any Linux | Bash | [+] Yes
+| [BRACE](https://github.com/pengu-apm/BRACE/)| Data Collector for Containers Only | Any Linux | Shell | [+] Yes
 
 | Enumeration Kit | Functions | Supported OS | Language | Actively supported
 |--|--|--|--|--|
