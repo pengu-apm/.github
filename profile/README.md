@@ -5,6 +5,7 @@ Degree Visualization of Linux ASR
 | Attack Kit | Functions | Supported OS | Language | Actively Supported
 |--|--|--|--|--|
 | [PyPengu](https://github.com/pengu-apm/PyPengu/) | Data Collector | Any Linux | Go | [+] Yes
+| [BloodPengu.py](https://github.com/pengu-apm/gxc-BloodPengu.py/) | Data Collector | Any | Go | Only [<@byt3n33dl3>](https://github.com/byt3n33dl3/gxc-BloodPengu.py/)
 | [BRACE](https://github.com/pengu-apm/BRACE/)| Data Collector for Cloud/Containers Only | Any Linux | Shell | [+] Yes
 
 | Enumeration Kit | Functions | Supported OS | Language | Actively Supported
